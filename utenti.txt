@@ -1,0 +1,6 @@
+1;fabio;1234;460.0;false;+10.0 EURO Entrate|
+2;luca;1234;190.0;false;+50.0 EURO Deposito|+20.0 EURO Deposito|-30.0 EURO Uscite|
+3;laura;0000;320.0;false;+30.0 EURO Entrate|+50.0 EURO Deposito|-10.0 EURO Uscite|
+5;anna;1234;550.0;true;
+6;ciro;1234;1100.0;false;
+7;gaia;1234;680.0;false;

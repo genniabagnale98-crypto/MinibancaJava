@@ -164,11 +164,12 @@ static double stampaSaldoTotale (ArrayList<Utente> utenti)
     }
 
     public static void main(String[] args) {
-
-
-        System.out.println ("Ciao");
-
+        
         Scanner sc = new Scanner(System.in);
+
+
+        System.out.println("okay");
+
 
         ArrayList<Utente> utenti =
         new ArrayList<>();

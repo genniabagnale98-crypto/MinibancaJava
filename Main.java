@@ -165,9 +165,6 @@ static double stampaSaldoTotale (ArrayList<Utente> utenti)
 
     public static void main(String[] args) {
 
-
-        System.out.println ("Ciao Master!");
-
         Scanner sc = new Scanner(System.in);
 
         ArrayList<Utente> utenti =
